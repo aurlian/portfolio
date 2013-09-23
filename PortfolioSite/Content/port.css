@@ -1,0 +1,70 @@
+﻿.bookBox
+{
+    width: 150px;
+    height: 200px;
+    border: 0px; 
+    padding: 0px;
+            
+    background: #21120A; 
+}
+        
+.bookImageFrame
+{
+    background: #D87A0F;
+}
+        
+a:focus
+{
+    outline : 0;        
+}
+ 
+.gray {
+	
+	background-color: Gray;
+	}
+ 
+#imgPlaceholder 
+{
+	background-image: url("../images/face.jpg");
+	border: 1px solid black;
+	width: 115px;
+	height: 140px;
+	background-color: White;
+	margin-left: 10px;
+	
+}
+
+.header 
+{
+    height: 40px;
+}
+
+.footer
+{
+    border-top: 1px solid gray;
+}
+
+.textPlaceHolder {
+	border: 1px solid black;
+	width: 100px;
+	height: 30px;
+	background-color: White;
+	margin-left: 18px;
+	margin-top: 10px;
+}
+
+.container {
+	background-image: url("../images/page_fold.gif");
+	background-repeat: repeat-y;
+	background-position: 140px 0px;	
+	
+}
+
+.mainRow {
+	min-height: 500px;
+}
+
+.indent
+{
+    margin-left: 25px;
+}
